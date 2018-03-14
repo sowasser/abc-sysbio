@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: abc-sysbio
+Version: 2.08
+Summary: Approximate Bayesian Computation for systems biology
+Home-page: http://abc-sysbio.sourceforge.net/
+Author: Chris Barnes
+Author-email: christopher.barnes@imperial.ac.uk
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: libSBML
+Requires: matplotlib
+Requires: Numpy
+Requires: Scipy
